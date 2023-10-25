@@ -9,7 +9,6 @@
 
 
 
-
 # 2) Imprimir por pantalla el segundo elemento de la lista
 
 # In[4]:
